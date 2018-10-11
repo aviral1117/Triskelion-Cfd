@@ -5,9 +5,9 @@
 - We plan to implement a multi-disciplinary approach encompassing the domains of Machine Learning, Behavioral Biology & Meteorology to address the given problem: To save lives and prevent economic losses through mechanisms to predict, prevent, or manage the impact of natural disasters.
  
 - Our idea makes is to develop a Deep Learning based model using Artificial Neural Networks taking into account some of the most important factors that influence the occurrence of a natural calamity/ disaster. The main components that the model shall incorporate are:
- - Weather conditions of the region.
- - Historical data (past natural calamities & climatic changes).
- - Tracking animals’ behaviour in the region.
+  -  Weather conditions of the region.
+  -  Historical data (past natural calamities & climatic changes).
+  -  Tracking animals’ behaviour in the region.
 
 
 - After successful development and deployment of the complete model on Azure, users can access this model directly through our GitHub repository and start making full use of it through step-by-step instructions that shall be mentioned along with the model.
