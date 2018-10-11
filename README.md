@@ -1,4 +1,4 @@
-# Triskelion-Cfd-
+# Triskelion-Cfd
 # Idea for codefundo++:
 
 
